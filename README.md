@@ -1,0 +1,2 @@
+# Adaptive-Machine-Learning-Validation-Driven-Framework-for-Forecasting-Electric-Consumption
+Adaptive forecasting of non-stationary, heterogeneous time series is addressed through a validation-driven framework that blends global, cluster-aware, and selective personalized models. Emphasizing robustness, it constrains extreme errors via regime awareness and conservative fallback, favoring reliability over marginal average gains.
